@@ -21,5 +21,5 @@ Tecnologias usadas...
 
 <h3>Demonstração no Computador e Mobile</h3>
 
-<img src = "https://github.com/mateusrodrigues15/Easy-Shopping-Via-Mobile/blob/master/img/windows.png?raw=true" width = 50%/>
-<img src 
+<img src = "https://github.com/mateusrodrigues15/Easy-Shopping-Via-Mobile/blob/master/img/PC.img.png?raw=true" width = 40% align = "center"/> <img  src = "https://github.com/mateusrodrigues15/Easy-Shopping-Via-Mobile/blob/master/img/Mobile.png?raw=true" width = 20% align = "center"/> 
+
