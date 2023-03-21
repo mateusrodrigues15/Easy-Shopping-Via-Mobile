@@ -1,7 +1,7 @@
-<h1> Easy Shopping </h1>
+<h1 align = "center"> Easy Shopping </h1>
 <br>
 
-<h2> Primeiro projeto deixando o site reativo </h2>
+<h2 align = "center"> Primeiro projeto deixando o site reativo </h2>
 <br>
 <br>
 
@@ -19,7 +19,9 @@ Tecnologias usadas...
 <br>
 <br>
 
-<h3>Demonstração no Computador e Mobile</h3>
+<h3 align = "center">Demonstração no Computador e Mobile</h3>
+<br>
+<br>
 
-<img src = "https://github.com/mateusrodrigues15/Easy-Shopping-Via-Mobile/blob/master/img/PC.img.png?raw=true" width = 40% align = "center"/> <img  src = "https://github.com/mateusrodrigues15/Easy-Shopping-Via-Mobile/blob/master/img/Mobile.png?raw=true" width = 20% align = "center"/> 
+<img src = "https://github.com/mateusrodrigues15/Easy-Shopping-Via-Mobile/blob/master/img/PC.img.png?raw=true" width = 40% align = "center"/> <img  src = "https://github.com/mateusrodrigues15/Easy-Shopping-Via-Mobile/blob/master/img/Mobile.png?raw=true" width = 18% align = "center"/> 
 
