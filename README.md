@@ -23,5 +23,5 @@ Tecnologias usadas...
 <br>
 <br>
 
-<img src = "https://github.com/mateusrodrigues15/Easy-Shopping-Via-Mobile/blob/master/img/PC.img.png?raw=true" width = 40% align = "center"/> <img  src = "https://github.com/mateusrodrigues15/Easy-Shopping-Via-Mobile/blob/master/img/Mobile.png?raw=true" width = 18% align = "center"/> 
+<img src = "https://github.com/mateusrodrigues15/Easy-Shopping-Via-Mobile/blob/master/img/Easy-Shopping-PcCompu.png?raw=true" width = 50% align = "center"/> <img  src = "https://github.com/mateusrodrigues15/Easy-Shopping-Via-Mobile/blob/master/img/Easy-Shopping-Mobi.png?raw=true" width = 20% align = "center"/> 
 
